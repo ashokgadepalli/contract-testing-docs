@@ -2,7 +2,7 @@
 
 TL;DR - It is not consumer driven contract testing unless the providers are driven by it. *drops mic*
 
-[Insert an an image of a mobile phone case]
+![cases](images/cases.jpg "Cases")
 
 We all use or have used mobile phone cases to protect our shiny devices of glass and metal. Have you ever wondered how they are available usually before the device even hits the market? Casemakers are given dummy devices with exact dimensions but no internals either in physical or digital form by the manufacturer of the mobile phone way in advance of the device even being announced. The point is that the dummy device is a contract that the consumer of the case, the mobile phone will be compatible with the case as long as they adhere to the dimesnsions of the mobile phone. This prevents both the mobile phone manufacturer and the case manufacturer from crossing certain boundaries as they continue to develop their products. 
 
