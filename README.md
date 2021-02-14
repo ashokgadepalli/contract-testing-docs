@@ -1,6 +1,6 @@
-## The current state and future state of Contract Testing at Discover
+## The state of Contract Testing at Discover
 
-TL;DR - It is not consumer driven contract testing unless the providers are driven by it.
+TL;DR - It is not consumer driven contract testing unless the providers are driven by it. *drops mic*
 
 [Insert an an image of a mobile phone case]
 
