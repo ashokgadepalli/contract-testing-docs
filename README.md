@@ -12,7 +12,7 @@ This document hopes to cover the current state and target state of contract test
 
 Let us first take a look at how the pipeline team is handling contract testing.
 
-[Insert diagram here]
+![mock](images/mock.png "Mock")
 
 The pipeline team have a script called the PACT automation script that generates both consumer and provider tests. Developers still have to write provider states and run the consumer tests to generate the contract files.
 
